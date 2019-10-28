@@ -8,8 +8,8 @@ const Routes = createAppContainer(
     createSwitchNavigator({
         Login,
         List,
-        Book 
+        Book
     })
 );
 
-export default Routes;
+export default Routes; 
